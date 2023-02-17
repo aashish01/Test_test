@@ -1,4 +1,6 @@
-a = 1
-b = 2
-c = a+b
-print(c)
+a = 20
+b = 25
+c = 30
+sum = a+b+c
+avg =sum/3
+print(avg)
